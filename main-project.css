@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	display: inline;
+	background-image: url("Screen Shot 2020-08-03 at 12.21.49 AM.png");
+	color: azure;
+	font-family: verdana, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+ul, li {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	display: inline;
+	color: azure;
+	font-family: verdana, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+a {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-align: center;
+}
+div {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-bottom: 100px;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 15px;
+}
+.nav-bar {
+	background-color: #404040;
+}
+a:visited {
+	color: azure;
+}
